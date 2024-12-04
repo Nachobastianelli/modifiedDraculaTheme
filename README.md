@@ -21,7 +21,7 @@ Este archivo JSON incluye:
   Linux: ~/.vscode/extensions
   Mac: ~/.vscode/extensions
 ```
-3. entra a carpeta que contiene la extension de dracula
+3. Entra a carpeta que contiene la extension de dracula
 4. Pega el contenido del archivo en tu configuración actual para usar esta versión como base.
 
 ## ⚠️ Nota importante
